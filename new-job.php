@@ -12,7 +12,7 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <div class="container-fluid">
             <ul class="navbar-nav">             
-                <img src="logo.png" alt = "Minn Kota" style= "max-height:50px;">
+                <img src="logo.png" alt = "Minn Kota" style= "max-height:50px; margin-right: 10px;">
                 <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="customer-landing.php">Customers</a></li>
                 <li class="nav-item"><a class="nav-link" href="job-landing.php">Jobs</a></li>
